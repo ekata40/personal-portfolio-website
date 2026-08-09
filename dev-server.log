@@ -1,0 +1,63 @@
+
+> digital-ekta@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.2
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.254.14:3001
+
+ ✓ Starting...
+ ✓ Ready in 4.5s
+ ○ Compiling / ...
+ ✓ Compiled / in 20.4s (628 modules)
+ GET / 200 in 219ms
+ GET / 200 in 1552ms
+ GET / 200 in 971ms
+ GET / 200 in 110ms
+ GET / 200 in 807ms
+ GET / 200 in 365ms
+ ○ Compiling /services ...
+ ✓ Compiled /services in 1223ms (636 modules)
+ GET /services 200 in 2253ms
+ GET / 200 in 978ms
+ GET /services 200 in 481ms
+ GET / 200 in 736ms
+ GET / 200 in 553ms
+ ○ Compiling /about ...
+ ✓ Compiled /about in 591ms (627 modules)
+ GET /about 200 in 823ms
+ GET /services 200 in 94ms
+ ○ Compiling /blog ...
+ ✓ Compiled /blog in 1452ms (639 modules)
+ GET /blog 200 in 1801ms
+ GET /blog 200 in 66ms
+ GET /about 200 in 82ms
+ GET / 200 in 92ms
+ ✓ Compiled in 3.5s (653 modules)
+ ✓ Compiled in 340ms (255 modules)
+ ✓ Compiled in 825ms (255 modules)
+ ✓ Compiled in 1328ms (639 modules)
+ ✓ Compiled in 4.1s (653 modules)
+ ✓ Compiled in 2.8s (648 modules)
+ ✓ Compiled in 1804ms (634 modules)
+ ✓ Compiled in 1650ms (643 modules)
+ ✓ Compiled in 1431ms (629 modules)
+ ✓ Compiled in 1718ms (643 modules)
+ ✓ Compiled in 1395ms (629 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 1943ms (634 modules)
+ GET / 200 in 3266ms
+ ✓ Compiled in 832ms (254 modules)
+ GET / 200 in 389ms
+ ○ Compiling /about ...
+ ✓ Compiled /about in 1044ms (639 modules)
+ GET /about 200 in 1767ms
+ GET /blog 200 in 314ms
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 1131ms (649 modules)
+ GET /contact 200 in 1662ms
+ ○ Compiling /blog/[slug] ...
+ ✓ Compiled /blog/[slug] in 981ms (659 modules)
+ GET /blog/ai-marketing-that-earns-trust 200 in 3151ms
+ ✓ Compiled in 2s (642 modules)
+ ✓ Compiled in 2.1s (656 modules)

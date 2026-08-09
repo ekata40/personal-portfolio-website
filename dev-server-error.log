@@ -1,0 +1,31 @@
+ ⚠ Port 3000 is in use by process 6376, using available port 3001 instead.
+ ⨯ ./content/blog-posts.ts
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\pc\Documents\ChatGPT\Ekta Portfolio Website 2\content\blog-posts.ts
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./content/blog-posts.ts
+./components/blog-list.tsx
+ ⨯ ./content/blog-posts.ts
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\pc\Documents\ChatGPT\Ekta Portfolio Website 2\content\blog-posts.ts
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./content/blog-posts.ts
+./components/blog-list.tsx
+ ⨯ ./components/cards.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\pc\Documents\ChatGPT\Ekta Portfolio Website 2\components\cards.tsx
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./components/cards.tsx
+./components/blog-list.tsx
